@@ -7,9 +7,9 @@ Name=Myads
 Category=administration-management
 Description=Display ad units in the content, or any place on the site
 Version=2.3.2
-Date=26.11.2016
-Author=WebRomen
-Copyright=Copyright (C) 2014 - today: WebRomen | https://github.com/WebRomen/myads
+Date=08.12.2016
+Author=Roffun
+Copyright=Copyright (C) 2014 - today:  Roffun | https://webcot.net/cotonti/extensions/myads-plugin
 Notes=BSD License
 English | Русский
 SQL=
@@ -51,8 +51,8 @@ myads_usersdone=31:string::1:
 /**
  * Myads setup plugin
  *
- * @author  WebRomen
- * @copyright Copyright (C) 2014 - today: WebRomen | https://github.com/WebRomen/myads
+ * @author  Roffun
+ * @copyright Copyright (C) 2014 - today:  Roffun | https://webcot.net/cotonti/extensions/myads-plugin
  * @license BSD
  */
 

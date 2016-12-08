@@ -8,8 +8,8 @@ Hooks=global
 /**
  * myads global
  *
- * @author  WebRomen
- * @copyright Copyright (C) 2014 - today: WebRomen | https://github.com/WebRomen/myads
+ * @author  Roffun
+ * @copyright Copyright (C) 2014 - today:  Roffun | https://webcot.net/cotonti/extensions/myads-plugin
  * @license BSD
  */
 

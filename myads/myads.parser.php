@@ -7,8 +7,8 @@ Hooks=parser.last
 /**
  * myads parser
  *
- * @author  WebRomen
- * @copyright Copyright (C) 2014 - today: WebRomen | https://github.com/WebRomen/myads
+ * @author  Roffun
+ * @copyright Copyright (C) 2014 - today:  Roffun | https://webcot.net/cotonti/extensions/myads-plugin
  * @license BSD
  */
 defined('COT_CODE') or die('Wrong URL.');
