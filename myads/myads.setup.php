@@ -9,7 +9,7 @@ Description=Display ad units in the content, or any place on the site
 Version=2.3.2
 Date=08.12.2016
 Author=Roffun
-Copyright=Copyright (C) 2014 - today:  Roffun | https://webcot.net/cotonti/extensions/myads-plugin
+Copyright=Copyright (c) 2014 - today: Roffun | https://github.com/Roffun
 Notes=BSD License
 English | Русский
 SQL=
@@ -52,7 +52,7 @@ myads_usersdone=31:string::1:
  * Myads setup plugin
  *
  * @author  Roffun
- * @copyright Copyright (C) 2014 - today:  Roffun | https://webcot.net/cotonti/extensions/myads-plugin
+ * @copyright Copyright (c) 2014 - today: Roffun | https://github.com/Roffun
  * @license BSD
  */
 

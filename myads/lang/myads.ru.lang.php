@@ -3,7 +3,7 @@
  * Русский языковый файл плагина myads
  * 
  * @author  Roffun
- * @copyright Copyright (C) 2014 - today:  Roffun | https://webcot.net/cotonti/extensions/myads-plugin
+ * @copyright Copyright (c) 2014 - today: Roffun | https://github.com/Roffun
  * @license BSD
  */
 defined('COT_CODE') or die('Wrong URL.');
